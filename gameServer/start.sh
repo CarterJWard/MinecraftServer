@@ -1,1 +1,1 @@
-tmux new-session -d -s "MinecraftServer" server.sh
+tmux new-session -d -s "MinecraftServer" ./server.sh
