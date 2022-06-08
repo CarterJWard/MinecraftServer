@@ -1,0 +1,12 @@
+gameServer/ServerFiles/eula.txt
+gameServer/ServerFiles/libraries
+gameServer/ServerFiles/logs
+gameServer/ServerFiles/versions
+gameServer/ServerFiles/server.jar
+gameServer/ServerFiles/world
+
+gameServer/ServerFiles/whitelist.json
+gameServer/ServerFiles/usercache.json
+gameServer/ServerFiles/ops.json
+gameServer/ServerFiles/banned-players.json
+gameServer/ServerFiles/banned-ips.json
