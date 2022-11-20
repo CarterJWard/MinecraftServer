@@ -1,0 +1,2 @@
+tmux a
+/stop
